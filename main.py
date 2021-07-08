@@ -10,7 +10,7 @@ postHash = arg[postIndex+ 6: postIndex + 70]
 getPostInfo(postHash)
 createCSV("sumarisedComments.json", "UnsortedComments.csv")
 
-arg = int(input("How you want to sort it? \n1. Based on Diamonds author gave\n\n2. Based on timestamp\n\nInput 1 or 2"))
+arg = int(input("How you want to sort it? \n1. Based on Diamonds author gave\n\n2. Based on timestamp\n\nInput 1 or 2: "))
 
 
 
