@@ -15,6 +15,7 @@ Upload the CSV file to google spreadsheet for better views!
 Idea from Balajis contest: https://bitclout.com/posts/a1d5e8e3eddc4e316f5c516fa48aea6dcedc058720c75e33b954c0aaf89e32e1
 
 
-example post sorted by timestamp: https://docs.google.com/spreadsheets/d/e/2PACX-1vSVglH688eQ90zfQld-Uh-Qzs_ib3sz1R5mENUGnctddVADdu6uKtcVfeaREM5f-L-Z7zgFBaz5UPeY/pubhtml
+example post sorted by timestamp:https://docs.google.com/spreadsheets/d/1gdSLq9r3a9y35eoIzRlmJdzZSQqSqbkjQlMiYYrQ6JU/edit#gid=2096068221
 
-example post sorted by diamonds author gave: https://docs.google.com/spreadsheets/d/e/2PACX-1vQ3TUxXTiXwiuoURh5a4VWSGRpdLqyzL2YrSYM6ZfPe2FwUwOiD_jbEj34433jGmRx7bM0N0Xkyf5co/pubhtml
+
+example post sorted by diamonds author gave: https://docs.google.com/spreadsheets/d/1r5jiaHaC6Pbrfbkupih2C7mpmlhbZ_86wcN5wKJR8dw/edit?ouid=102371004229054416973&usp=sheets_home&ths=true
